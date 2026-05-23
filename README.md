@@ -36,3 +36,5 @@ Accessibility Features
 Author
 
 Jennith
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/0646998b-7acc-4c76-a9d9-f354c2c10552" />
